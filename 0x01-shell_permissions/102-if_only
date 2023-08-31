@@ -1,2 +1,2 @@
 #!/bin/bash
-chown +x betty.sh' 
+chmod +x betty.sh' 
